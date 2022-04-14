@@ -1,0 +1,64 @@
+{
+    "pizzas": [
+      {
+        "id": 0,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+        "name": "Пепероні",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "price": 150,
+        "category": 0,
+        "rating": 4
+      },
+      {
+        "id": 1,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+        "name": "4 Сири",
+        "types": [0],
+        "sizes": [26, 40],
+        "price": 145,
+        "category": 1,
+        "rating": 6
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+        "name": "Курчатко барбекю",
+        "types": [0],
+        "sizes": [26, 40],
+        "price": 195,
+        "category": 1,
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/af553bf5-3887-4501-b88e-8f0f55229429.jpg",
+        "name": "Кисло-солодке курча",
+        "types": [1],
+        "sizes": [26, 30, 40],
+        "price": 175,
+        "category": 2,
+        "rating": 2
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+        "name": "Бургер піца",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "price": 115,
+        "category": 3,
+        "rating": 8
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/1e1a6e80-b3ba-4a44-b6b9-beae5b1fbf27.jpg",
+        "name": "Крейзі піца",
+        "types": [0],
+        "sizes": [30, 40],
+        "price": 180,
+        "category": 2,
+        "rating": 2
+      }
+    ]
+  }
